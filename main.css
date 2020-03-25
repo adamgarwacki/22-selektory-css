@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+}
+
+h1 {
+    background-color: #6670ff;
+    padding: 0.5rem;
+}
+
+h3 {
+    background-color: #adb2fd;
+    padding: 0.5rem;
+}
+
+p {
+    color: #00065c;
+    padding: 0.5rem;
+}
+
+h3:nth-of-type(1) {
+    color: #c73572;
+}
